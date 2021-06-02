@@ -1,0 +1,26 @@
+[
+    {
+        "id": "happy-clients",
+        "count": 1056,
+        "title": "Happy Clients",
+        "heading": "Successfully work with"
+    },
+    {
+        "id": "finished-projects",
+        "count": 491,
+        "title": "FINISHED PROJECTS",
+        "heading": "Successfully completed"
+    },
+    {
+        "id": "skilled-experts",
+        "count": 491,
+        "title": "SKILLED EXPERTS",
+        "heading": "Recruit more than"
+    },
+    {
+        "id": "media-posts",
+        "count": 491,
+        "title": "MEDIA POSTS",
+        "heading": "Blog Update"
+    }
+]

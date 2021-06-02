@@ -1,0 +1,30 @@
+[
+    {
+        "id": "history-page-intro",
+        "title": "We create dreams <span>for the future.</span> <br/> We realize them sucessfully.",
+        "desc": "You know that you found your dream when you have a desire to achieve a goal, have the gut to pursue it, have the courage to overcome any obstacles on your path and feel blessed when finally realizing it. Dream on, keep up and make it pay off."
+    },
+    {
+        "id": "our-history",
+        "histories": [
+            {
+                "year": "1988",
+                "image": "../images/box-image/timeline-image-01.jpg",
+                "title": "The Foundation of Mitech",
+                "desc": "The beginning of Mitech Co. was laid by three men: Jackie Moodle, Alan Morray and Burrow Kills. Back in 1988, three passionate young pupils, whose major is Information Technology, had discussed with each other about starting a company to deliver technological & digital services in an old rented apartment."
+            },
+            {
+                "year": "1993",
+                "image": "../images/box-image/timeline-image-02.jpg",
+                "title": "Mitech’s Golden Age",
+                "desc": "Mitech had been operating for 5 years when it reached the golden age in the company’s history. They received two prestigious awards for Dedicated Services & Community Contribution (in 1990), plus three successive award nominations for Best IT Company of the year (respectively in 1991, 1992 & 1993)."
+            },
+            {
+                "year": "1993",
+                "image": "../images/box-image/timeline-image-03.jpg",
+                "title": "Mitech’s Turning Point",
+                "desc": "The company has a turning point in 1995 when one of its founders left the board of the management and established a new company in Healthcare & Assurance – HealSoul. Later on, Mitech and HealSoul have successfully cooperated in several projects to integrate technology into taking care of people’s health. ."
+            }
+        ]
+    }
+]

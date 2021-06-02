@@ -1,0 +1,18 @@
+[
+  {
+    "text": "Home",
+    "link": "/"
+  },
+  {
+    "text": "Company",
+    "link": "/#company"
+  },
+  {
+    "text": "Services",
+    "link": "/#services"
+  },
+  {
+    "text": "Blog",
+    "link": "/blog"
+  }
+]

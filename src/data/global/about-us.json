@@ -1,0 +1,62 @@
+[
+    {
+        "id": "about-page-header-data",
+        "title": "About Mitech",
+        "desc": "Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
+        "bg_image": "../images/banner/banner-09.jpg"
+    },
+    {
+        "id": "about-page-intro",
+        "section_title": {
+            "title": "We run all kinds of IT services that vow your <span>success</span>",
+            "subtitle": "our company"
+        },
+        "heading": "<mark>38</mark> YEARS’ EXPERIENCE IN IT",
+        "text": "More About Our Success Stories",
+        "desc": "The IT services that Mitech are running can be segmented by the type of skills employed to deliver the service (design, build, run). Technically, these fall into three main categories: business process services, application services, and infrastructure services.",
+        "path": "/it-services"
+    },
+    {
+        "id": "about-page-resources",
+        "title": "Get a copy of brochure on <span>Brand New IT Tech.</span>",
+        "subtitle": "Resources",
+        "download_link": "/about-us",
+        "image": "../images/box-image/book-cover.png"
+    },
+    {
+        "id": "about-page-solutions",
+        "title": "We excel in delivering <br/> optimal solutions.",
+        "solutions": [
+            {
+                "id": "warranty-management-it",
+                "title": "Warranty Management IT",
+                "text": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
+            },
+            {
+                "id": "product-engineering-services",
+                "title": "Product Engineering & Services",
+                "text": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
+            },
+            {
+                "id": "quality-control-system",
+                "title": "Quality Control System",
+                "text": "It's more than a responsibility but a guarantee from us to gain customer trust with highly reliable quality control system."
+            },
+            {
+                "id": "infrastructure-integration-technology",
+                "title": "Infrastructure Integration Technology",
+                "text": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-staffs",
+                "title": "Highly Professional Staffs",
+                "text": "Having obtained the official & formal training in IT technology and technical fields, our staffs know more than what they show."
+            },
+            {
+                "id": "information-security-management",
+                "title": "Information Security Management",
+                "text": "Information security has been a rising issue lately due to a series of scandals from big companies, rest assured, we're here."
+            }
+        ]
+    }
+]

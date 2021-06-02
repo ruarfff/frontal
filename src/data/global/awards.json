@@ -1,0 +1,26 @@
+[
+    {
+        "id": "top-trainings-award",
+        "title": "Top Training Companies 2016",
+        "desc": "More than 40 years ago, our company’s namesake, LineThemes, pioneered a revolutionary sales training program for businesses of every size.",
+        "image": "../images/awards/mitech-company-award-01-161x110.jpg"
+    },
+    {
+        "id": "cio-bg-data-award",
+        "title": "CIO Big Data 100",
+        "desc": "More than 40 years ago, our company’s namesake, LineThemes, pioneered a revolutionary sales training program for businesses of every size.",
+        "image": "../images/awards/mitech-company-award-02-161x116.jpg"
+    },
+    {
+        "id": "top-20-training-award",
+        "title": "Top 20 Sales Training Companies 2015",
+        "desc": "More than 40 years ago, our company’s namesake, LineThemes, pioneered a revolutionary sales training program for businesses of every size.",
+        "image": "../images/awards/mitech-company-award-03-161x112.jpg"
+    },
+    {
+        "id": "pharma-tech",
+        "title": "Pharma Tech Outlook",
+        "desc": "More than 40 years ago, our company’s namesake, LineThemes, pioneered a revolutionary sales training program for businesses of every size.",
+        "image": "../images/awards/mitech-company-award-04-161x109.jpg"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": "why-choose-page-intro",
+        "title": "Preparing for your success, <br/> we provide <span>truly prominent IT solutions.</span>",
+        "heading": "<mark>38</mark> YEARS’ EXPERIENCE IN IT",
+        "text": "Learn More About Our <span>Success Stories</span>",
+        "desc": "The IT services that Mitech are running can be segmented by the type of skills employed to deliver the service (design, build, run). Technically, these fall into three main categories: business process services, application services, and infrastructure services."
+    },
+    {
+        "id": "our-skills",
+        "skills": [
+            {
+                "title": "UI/UX",
+                "value": "90%"
+            },
+            {
+                "title": "Ideas",
+                "value": "70%"
+            },
+            {
+                "title": "Marketing",
+                "value": "95%"
+            },
+            {
+                "title": "Consulting",
+                "value": "75%"
+            }
+        ]
+    }
+]

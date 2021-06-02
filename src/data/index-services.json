@@ -1,0 +1,75 @@
+[
+    {
+        "id": "services-hero-contnet",
+        "title": "Frontal",
+        "subtitle": "for IT Services",
+        "desc": "Highly Tailored IT Design, Management & Support Services.",
+        "path": "/services",
+        "bg_image": "./images/hero/home-services-hero-bg.jpg"
+    },
+    {
+        "id": "services-about-contnet",
+        "title": "We’ve been triumphing <br/> all these <span>38 years.</span> <br/> Sacrifices are made up <br/> with success.",
+        "subtitle": "Our Company",
+        "desc": "Mitech takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers’ database & building up highly confidential firewalls.",
+        "path": "/about-us",
+        "video_link": "https://www.youtube.com/watch?v=vqZuSUtczbU",
+        "image1": "./images/about-us/home-processing-video-intro-slider-slide-01-image-02.jpg",
+        "image2": "./images/about-us/home-processing-video-intro-slider-slide-01-image-03.jpg",
+        "image3": "./images/about-us/home-processing-video-intro-slider-slide-01-image-04.jpg",
+        "image4": "./images/about-us/home-processing-video-intro-slider-slide-01-image-05.jpg",
+        "main_image": "./images/about-us/video-01-image-01-570x350.jpg"
+    },
+    {
+        "id": "services-services-contnet",
+        "title": "Services We Deliver <br/> we provide <span>truly prominent IT solutions.</span>",
+        "subtitle": "INDUSTRIES WE SERVE",
+        "path": "/contact-us"
+    },
+    {
+        "id": "services-gradation-content",
+        "title": "How it helps <span>your <br/> business succeed</span>",
+        "subtitle": "HOW WE WORKS",
+        "gradations": [
+            {
+                "id": "service-gradiation-1",
+                "title": "Discussion",
+                "desc": "We meet customers in set place to discuss the details about needs and demands before proposing a plan.",
+                "path": "/about-us"
+            },
+            {
+                "id": "service-gradiation-2",
+                "title": "Concepts & Initatives",
+                "desc": "Our experts come up with all kinds of ideas and initiatives for delivering the best solutions for IT services chosen.",
+                "path": "/about-us"
+            },
+            {
+                "id": "service-gradiation-3",
+                "title": "Testing & Trying",
+                "desc": "After agreeing on the ideas and plans, we will conduct as scheduled and give comments on the results & adaptations.",
+                "path": "/about-us"
+            },
+            {
+                "id": "service-gradiation-4",
+                "title": "Execute & install",
+                "desc": "Once the final plan is approved, everything will be conducted according to the agreed contract.",
+                "path": "/about-us"
+            }
+        ]
+    },
+    {
+        "id": "services-case-contnet",
+        "title": "Proud projects that <span>make us stand out</span>",
+        "subtitle": "CASE STUDIES"
+    },
+    {
+        "id": "services-pricing-contnet",
+        "title": "1 monthly fee for <span>all IT services.</span>",
+        "subtitle": "PRICING AND PLAN"
+    },
+    {
+        "id": "services-blog-contnet",
+        "title": "Latest news are <span>on top all times</span>",
+        "subtitle": "LATEST NEWS"
+    }
+]

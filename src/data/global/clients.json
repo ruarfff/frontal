@@ -1,0 +1,37 @@
+[
+    {
+        "id": "adroll-partner",
+        "image": "../images/partners/mitech-slider-client-logos-logo-02.png",
+        "path": "/"
+    },
+    {
+        "id": "mozila-partner",
+        "image": "../images/partners/mitech-slider-client-logos-logo-03.png",
+        "path": "/"
+    },
+    {
+        "id": "bullfit-partner",
+        "image": "../images/partners/mitech-slider-client-logos-logo-04.png",
+        "path": "/"
+    },
+    {
+        "id": "aqua-partner",
+        "image": "../images/partners/mitech-slider-client-logos-logo-05.png",
+        "path": "/"
+    },
+    {
+        "id": "eventbrite-partner",
+        "image": "../images/partners/mitech-slider-client-logos-logo-01.png",
+        "path": "/"
+    },
+    {
+        "id": "pencil-partner",
+        "image": "../images/partners/mitech-slider-client-logos-logo-06.png",
+        "path": "/"
+    },
+    {
+        "id": "sixbase-partner",
+        "image": "../images/partners/mitech-slider-client-logos-logo-07.png",
+        "path": "/"
+    }
+]

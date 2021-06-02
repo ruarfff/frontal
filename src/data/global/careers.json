@@ -1,0 +1,46 @@
+[
+    {
+        "id": "careers-section-intro",
+        "title": "Become a part of our big family to inspire and get inspired by <span>professional experts.</span>"
+    },
+    {
+        "id": "our-open-jobs",
+        "jobs": [
+            {
+                "id": "job-1",
+                "title": "IT Operations Specialist",
+                "type": "Full time",
+                "description": "We are currently seeking a highly motivated individual to fill an I.T. This position will provide remote and onsite hands-on support to staff, vendors, and customers as well as, proactively identify issues."
+            },
+            {
+                "id": "job-2",
+                "title": "IT Desktop Support",
+                "type": "Part time",
+                "description": "The Mitech IT team believes in full transparency, being flexible, reliable and being great team players. We are problem solvers, always ready to help and support each other and the organization."
+            },
+            {
+                "id": "job-3",
+                "title": "IT Summer Intern",
+                "type": "Internship",
+                "description": "Mitech is looking for a summer intern to work in the Information & Technology Services area. This position is part of a team which supports Microsoft Server Operating Systems, storage systems, and Client device technologies."
+            },
+            {
+                "id": "job-4",
+                "title": "Software Engineer",
+                "type": "Remote",
+                "description": "In partnership with others on the team, you will create enhancements and/or new services and solutions based data acquisition and analytics. You will analyze, design, program, debug and modify software interface for our system."
+            }
+        ]
+    },
+    {
+        "id": "our-office-views",
+        "title": "Pay a visit & have some coffee!",
+        "link": "/leadership",
+        "images": [
+            "../images/box-image/office-1.jpg",
+            "../images/box-image/office-2.jpg",
+            "../images/box-image/office-3.jpg",
+            "../images/box-image/office-4.jpg"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Harry Ferguson",
+        "image": "../images/author/harry.jpeg",
+        "social": {
+            "facebook": "https://facebook.com",
+            "twitter": "https://twitter.com",
+            "instagram": "https://instagram.com",
+            "linkedin": "https://linkedin.com"
+        },
+        "bio": "Harry Ferguson is an author, blogger, and designer living in a suburb of Washington, DC. When he’s not designing, blogging, or writing, Ferguson can be found with his head in a book or pinning like a madman."
+    },
+    {
+        "name": "James Scott",
+        "image": "../images/author/james.jpeg",
+        "social": {
+            "facebook": "https://facebook.com",
+            "twitter": "https://twitter.com",
+            "instagram": "https://instagram.com",
+            "linkedin": "https://linkedin.com"
+        },
+        "bio": "James Scott is an author, blogger, and designer living in a suburb of Washington, DC. When he’s not designing, blogging, or writing, Ferguson can be found with his head in a book or pinning like a madman."
+    },
+    {
+        "name": "Owen Christ",
+        "image": "../images/author/owen.jpeg",
+        "social": {
+            "facebook": "https://facebook.com",
+            "twitter": "https://twitter.com",
+            "instagram": "https://instagram.com",
+            "linkedin": "https://linkedin.com"
+        },
+        "bio": "Owen Christ is an author, blogger, and designer living in a suburb of Washington, DC. When he’s not designing, blogging, or writing, Ferguson can be found with his head in a book or pinning like a madman."
+    }
+]

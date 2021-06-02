@@ -1,0 +1,232 @@
+[
+    {
+        "id": "landing-hero-content",
+        "title": "Mitech - A Technology, Digital Software React Gatsby Template",
+        "subtitle": "Technology and software",
+        "bgImage": "../images/hero/mitech-landing-main-slider-bg.jpg",
+        "image1": "../images/hero/mitech-landing-main-slider-slide-01-image-04.png",
+        "image2": "../images/hero/mitech-landing-main-slider-slide-01-image-01.png",
+        "image3": "../images/hero/mitech-landing-main-slider-slide-01-image-02.png",
+        "image4": "../images/hero/mitech-landing-main-slider-slide-01-image-03.png",
+        "image5": "../images/hero/mitech-landing-main-slider-slide-01-image-05.png"
+    },
+    {
+        "id": "site_features",
+        "items": [
+            {
+                "id": 1,
+                "image": "../images/icons/icon-13-80x83.png",
+                "title": "Business Reform",
+                "desc": "We propose feasible &amp; practical plans for successfully transform businesses based on."
+            },
+            {
+                "id": 2,
+                "image": "../images/icons/icon-14-80x83.png",
+                "title": "Infrastructure Plan",
+                "desc": "Mitech takes into account all conditions and budgets needed for building infrastructure plan."
+            },
+            {
+                "id": 3,
+                "image": "../images/icons/icon-15-80x83.png",
+                "title": "Firewall Advancement",
+                "desc": "Enhancing the strength and security of firewalls to protect online data from malicious sources."
+            },
+            {
+                "id": 4,
+                "image": "../images/icons/icon-16-80x83.png",
+                "title": "Desktop Computing",
+                "desc": "Programming is taken care of by our experienced and professional specialist in IT management."
+            },
+            {
+                "id": 5,
+                "image": "../images/icons/icon-17-80x83.png",
+                "title": "Firewall Advancement",
+                "desc": "Programming is taken care of by our experienced and professional specialist in IT management."
+            }
+        ]
+    },
+    {
+        "id": "demos",
+        "items": [
+            {
+                "id": 1,
+                "title": "Appointment",
+                "image": "../images/demos/mitech-landing-home-appointment-preview-480x338.jpg",
+                "path": "/index-appointment"
+            },
+            {
+                "id": 2,
+                "title": "InfoTechno",
+                "image": "../images/demos/mitech-landing-home-infotechno-preview-480x338.jpg",
+                "path": "/index-infotechno"
+            },
+            {
+                "id": 3,
+                "title": "Processing",
+                "image": "../images/demos/mitech-landing-home-processing-preview-480x338.jpg",
+                "path": "/index-processing"
+            },
+            {
+                "id": 4,
+                "title": "Services",
+                "image": "../images/demos/mitech-landing-home-services-preview-480x338.jpg",
+                "path": "/index-services"
+            },
+            {
+                "id": 5,
+                "title": "Resolutions",
+                "image": "../images/demos/mitech-landing-home-resolutions-preview-480x338.jpg",
+                "path": "/index-resolutions"
+            },
+            {
+                "id": 6,
+                "title": "Cybersecurity",
+                "image": "../images/demos/mitech-landing-home-cybersecurity-preview-480x338.jpg",
+                "path": "/index-cybersecurity"
+            }
+        ]
+    },
+    {
+        "id": "inner-demos",
+        "items": [
+            {
+                "id": 1,
+                "title": "About Us",
+                "image": "../images/demos/inner-01.jpg",
+                "path": "/about-us"
+            },
+            {
+                "id": 2,
+                "title": "Contact Us",
+                "image": "../images/demos/inner-02.jpg",
+                "path": "/contact-us"
+            },
+            {
+                "id": 4,
+                "title": "Leadership",
+                "image": "../images/demos/inner-03.jpg",
+                "path": "/leadership"
+            },
+            {
+                "id": 5,
+                "title": "IT Services",
+                "image": "../images/demos/inner-04.jpg",
+                "path": "/it-services"
+            },
+            {
+                "id": 6,
+                "title": "Single Service",
+                "image": "../images/demos/single-service.jpg",
+                "path": "/it-service/quality-assurance-system/"
+            },
+            {
+                "id": 7,
+                "title": "Case Studies",
+                "image": "../images/demos/inner-05.jpg",
+                "path": "/case-studies"
+            },
+            {
+                "id": 8,
+                "title": "Single Case Study",
+                "image": "../images/demos/single-case-study.jpg",
+                "path": "/case-study/a-sixbase-typical-case-study"
+            },
+            {
+                "id": 9,
+                "title": "Blog",
+                "image": "../images/demos/inner-06.jpg",
+                "path": "/blog"
+            },
+            {
+                "id": 10,
+                "title": "Single Blog",
+                "image": "../images/demos/single-blog.jpg",
+                "path": "/5-ways-technology-has-improved-business-today"
+            }
+        ]
+    },
+    {
+        "id": "caseStudy",
+        "image": "../images/features/mitech-landing-case-study-preview.jpg",
+        "title": "<span>09+ Technological</span> Case Study Layouts",
+        "desc": "In general, analyses of famous case studies help your clients, partners, and visitors have a better understanding of what is going on in the market. Your helpful advice can also be beneficial for audiences, which keeps them coming back for more.",
+        "path": "/case-studies"
+    },
+    {
+        "id": "headerLayout",
+        "image": "../images/features/mitech-landing-header-preview-image.png",
+        "title": "<span>03+ Beautiful</span> Header Styles. <br/> And More is coming",
+        "desc": "Alternating between a number of diverse headers helps your pages stay dynamic and refreshing to readers. Organizing your menu items with these headers to make things more accessible for readers and reduce the bounce rate.",
+        "path": "/index-appointment"
+    },
+    {
+        "id": "blogLayout",
+        "image": "../images/features/mitech-landing-blog-preview.jpg",
+        "title": "<span>01 Blog</span> for Media News & Social Events. <br/> And More is coming",
+        "desc": "Blog sidebar widgets from Mitech come with an attention-grabbing feature image that can be configured from Customize menu. Choose a suitable layout for displaying images and craft valuable pieces of writing tu publish on your site.",
+        "path": "/blog"
+    },
+    {
+        "id": "plugins",
+        "image": "../images/features/mitech-landing-extended-plugins-preview.png",
+        "features": [
+            {
+                "title": "Swiper Slider",
+                "desc": "Generate unlimited full-width HD retina ready sliders with effects",
+                "icon": "../images/icons/icon-28-86x86.png"
+            },
+            {
+                "title": "Font Awesome",
+                "desc": "Professional fonts and icons help improve readability & visual.",
+                "icon": "../images/icons/icon-27-86x86.png"
+            }
+        ]
+    },
+    {
+        "id": "extra_features",
+        "items": [
+            {
+                "id": 1,
+                "title": "Expert Typography",
+                "desc": "We run thorough tests on different browsers to ensure optimal performance on all devices.",
+                "image": "../images/icons/icon-21-68x68.jpg"
+            },
+            {
+                "id": 2,
+                "title": "Fast Loading Speed",
+                "desc": "Mitech gets a very high pagespeed scores on Pagespeed Insight, Pingdom Tools & GTmetrix.",
+                "image": "../images/icons/icon-22-68x68.png"
+            },
+            {
+                "id": 3,
+                "title": "SEO Optimization",
+                "desc": "All elements are fully optimized to help your site compete with other similar ones in search engine.",
+                "image": "../images/icons/icon-23-68x68.png"
+            },
+            {
+                "id": 4,
+                "title": "Cross-browser Adaptability",
+                "desc": "We run thorough tests on different browsers to ensure optimal performance on all devices.",
+                "image": "../images/icons/icon-24-68x68.png"
+            },
+            {
+                "id": 5,
+                "title": "Prompt Support",
+                "desc": "Any issues with theme configuration and site building will be solved promptly by our professionals.",
+                "image": "../images/icons/icon-25-68x68.png"
+            },
+            {
+                "id": 6,
+                "title": "Built-in Component",
+                "desc": "A wide ranging of component are added to Mitech for assisting users on page building process.",
+                "image": "../images/icons/icon-26-68x68.png"
+            }
+        ]
+    },
+    {
+        "id": "preview-footer-data",
+        "title": "Take Steps to Get Closer <br/> To The Sweet Smell Of Success Now",
+        "subtitle": "A High-growth Approach",
+        "path": "https://themeforest.net/user/bootxperts/portfolio"
+    }
+]

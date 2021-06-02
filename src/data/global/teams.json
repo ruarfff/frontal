@@ -1,0 +1,210 @@
+[
+    {
+        "id": "dllie-horton",
+        "name": "Dollie Horton",
+        "designation": "Chief People Officer",
+        "position": "head",
+        "images": {
+            "large": "../images/team/team-member-07-370x455.jpg",
+            "medium": "../images/team/team-member-07-370x250.jpg"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com",
+            "twitter": "https://www.twitter.com",
+            "instagram": "https://www.instagram.com"
+        },
+        "is_featured": true
+    },
+    {
+        "id": "robert-amplilian",
+        "name": "Robert Amplilian",
+        "designation": "Chief People Officer",
+        "position": "head",
+        "images": {
+            "large": "../images/team/team-member-01-370x455.jpg",
+            "medium": "../images/team/team-member-01-370x250.jpg"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com",
+            "twitter": "https://www.twitter.com",
+            "instagram": "https://www.instagram.com"
+        },
+        "is_featured": false
+    },
+    {
+        "id": "stephen-mearsley",
+        "name": "Stephen Mearsley",
+        "designation": "President & CEO",
+        "position": "head",
+        "images": {
+            "large": "../images/team/team-member-06-370x455.jpg",
+            "medium": "../images/team/team-member-06-370x250.jpg"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com",
+            "twitter": "https://www.twitter.com",
+            "instagram": "https://www.instagram.com"
+        },
+        "is_featured": true
+    },
+    {
+        "id": "daisy-hortron",
+        "name": "Daisy Hortron",
+        "designation": "Financial Services",
+        "position": "executive",
+        "images": {
+            "large": "../images/team/team-member-04-370x452.jpg",
+            "medium": "../images/team/team-member-04-370x250.jpg"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com",
+            "twitter": "https://www.twitter.com",
+            "instagram": "https://www.instagram.com"
+        },
+        "is_featured": false
+    },
+    {
+        "id": "maggie-strickland",
+        "name": "Maggie Strickland",
+        "designation": "HR executive",
+        "position": "executive",
+        "images": {
+            "large": "../images/team/team-member-02-370x452.jpg",
+            "medium": "../images/team/team-member-02-370x250.jpg"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com",
+            "twitter": "https://www.twitter.com",
+            "instagram": "https://www.instagram.com"
+        },
+        "is_featured": true
+    },
+    {
+        "id": "monica-blews",
+        "name": "Monica Blews",
+        "designation": "Project manager",
+        "position": "executive",
+        "images": {
+            "large": "../images/team/team-member-05-370x452.jpg",
+            "medium": "../images/team/team-member-05-370x250.jpg"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com",
+            "twitter": "https://www.twitter.com",
+            "instagram": "https://www.instagram.com"
+        },
+        "is_featured": true
+    },
+    {
+        "id": "issac-blews",
+        "name": "Issac Blews",
+        "designation": "Marketing Executive",
+        "position": "executive",
+        "images": {
+            "large": "../images/team/team-member-03-370x452.jpg",
+            "medium": "../images/team/team-member-03-370x250.jpg"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com",
+            "twitter": "https://www.twitter.com",
+            "instagram": "https://www.instagram.com"
+        },
+        "is_featured": false
+    },
+    {
+        "id": "gene-moreno",
+        "name": "Gene Moreno",
+        "designation": "developer",
+        "position": "developer"
+    },
+    {
+        "id": "carrie-greer",
+        "name": "Carrie Greer",
+        "designation": "developer",
+        "position": "developer"
+    },
+    {
+        "id": "brent-newman",
+        "name": "Brent Newman",
+        "designation": "developer",
+        "position": "developer"
+    },
+    {
+        "id": "craig-stevenson",
+        "name": "Craig Stevenson",
+        "designation": "developer",
+        "position": "developer"
+    },
+    {
+        "id": "albert-webster",
+        "name": "Albert Webster",
+        "designation": "engineer",
+        "position": "engineer"
+    },
+    {
+        "id": "garry-castillo",
+        "name": "Harry Castillo",
+        "designation": "engineer",
+        "position": "engineer"
+    },
+    {
+        "id": "walter-reid",
+        "name": "Walter Reid",
+        "designation": "engineer",
+        "position": "engineer"
+    },
+    {
+        "id": "gordon-baldwin",
+        "name": "Gordon Baldwin",
+        "designation": "engineer",
+        "position": "engineer"
+    },
+    {
+        "id": "gene-moreno-2",
+        "name": "Gene Moreno",
+        "designation": "staff",
+        "position": "staff"
+    },
+    {
+        "id": "carrie-greer-2",
+        "name": "Carrie Greer",
+        "designation": "staff",
+        "position": "staff"
+    },
+    {
+        "id": "brent-newman-2",
+        "name": "Brent Newman",
+        "designation": "staff",
+        "position": "staff"
+    },
+    {
+        "id": "craig-stevenson-2",
+        "name": "Craig Stevenson",
+        "designation": "staff",
+        "position": "staff"
+    },
+    {
+        "id": "charlotte-shaw",
+        "name": "Charlotte Shaw",
+        "designation": "designer",
+        "position": "design"
+    },
+    {
+        "id": "kate-wong",
+        "name": "Kate Wong",
+        "designation": "designer",
+        "position": "design"
+    },
+    {
+        "id": "frederick-huff",
+        "name": "Frederick Huff",
+        "designation": "marketer",
+        "position": "marketing"
+    },
+    {
+        "id": "ora-johnson",
+        "name": "Ora Johnson",
+        "designation": "marketer",
+        "position": "marketing"
+    }
+]

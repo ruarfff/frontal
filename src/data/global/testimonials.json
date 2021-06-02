@@ -1,0 +1,38 @@
+[
+    {
+        "id": "testimoial-1",
+        "author_name": "Abbie Ferguson",
+        "author_designation": "Marketing",
+        "author_image": "../images/avatar/avatar-01-90x90.jpg",
+        "rating": 5,
+        "subject": "The Mitech team works really hard to ensure high level of quality",
+        "review": "I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me."
+    },
+    {
+        "id": "testimoial-2",
+        "author_name": "Monica Blews",
+        "author_designation": "Web designer",
+        "author_image": "../images/avatar/avatar-02-90x90.jpg",
+        "rating": 4,
+        "subject": "The Mitech team works really hard to ensure high level of quality",
+        "review": "I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me."
+    },
+    {
+        "id": "testimoial-3",
+        "author_name": "Sansa Stark",
+        "author_designation": "Web designer",
+        "author_image": "../images/avatar/avatar-03-90x90.jpg",
+        "rating": 5,
+        "subject": "The Mitech team works really hard to ensure high level of quality",
+        "review": "I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me."
+    },
+    {
+        "id": "testimoial-4",
+        "author_name": "Rickon Stark",
+        "author_designation": "Web developer",
+        "author_image": "../images/avatar/avatar-04-90x90.jpg",
+        "rating": 5,
+        "subject": "The Mitech team works really hard to ensure high level of quality",
+        "review": "I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me."
+    }
+]
