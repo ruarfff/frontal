@@ -6,6 +6,7 @@
 
 module.exports = {
 	pathPrefix: `/`,
+	flags: { PRESERVE_WEBPACK_CACHE: true },
 	siteMetadata: {
 		title: "Frontal",
 		titleTemplate: `Frontal`,
